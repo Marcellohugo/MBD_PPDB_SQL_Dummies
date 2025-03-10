@@ -1,3 +1,4 @@
+
 INSERT INTO `daftarulang` (`id_pengumuman`, `status_daftar_ulang`, `tanggal_daftar_ulang`) VALUES
 (1, 'Selesai', '2025-03-01'),
 (2, 'Belum Selesai', NULL),
