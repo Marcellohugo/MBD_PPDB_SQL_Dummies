@@ -252,5 +252,4 @@ INSERT INTO `daftarulang` (`id_pengumuman`, `status_daftar_ulang`, `tanggal_daft
 (34, 'Selesai', '2025-04-03'),
 (35, 'Belum Selesai', NULL);
 
-
 COMMIT;
